@@ -5,11 +5,11 @@ LightBnB is an easy to use website that will help you book your next holiday acc
 This was a database based project where SQL was primarily used to write my queries. The front end and back end of this website were forked while I focused mainly on the server and database. 
 
 # Final Product
-| !["Project home page!"](https://github.com/aidanantony/LightBnB/blob/main/LightBnB_WebApp-master/public/javascript/components/Home-page.png) |
+Project home page !["Project home page!"](https://github.com/aidanantony/LightBnB/blob/main/LightBnB_WebApp-master/public/javascript/components/Home-page.png) |
 
-| !["Create new listing page!"](https://github.com/aidanantony/LightBnB/blob/main/LightBnB_WebApp-master/public/javascript/components/Create-new-listing.png) |
+Create new listing page !["Create new listing page!"](https://github.com/aidanantony/LightBnB/blob/main/LightBnB_WebApp-master/public/javascript/components/Create-new-listing.png) |
 
-| !["ERD diagram!"](https://github.com/aidanantony/LightBnB/blob/main/LightBnB_WebApp-master/public/javascript/components/ERD-diagram.png) |
+ERD diagram !["ERD diagram!"](https://github.com/aidanantony/LightBnB/blob/main/LightBnB_WebApp-master/public/javascript/components/ERD-diagram.png) |
 
 # Setup
 Just use the following commands to set up. Run the commands inside the quotes but do not include the quotes. To isntall, use the command "npm install". Next use "npm run local". You should now be able to see it in your browser at localhost:3000
