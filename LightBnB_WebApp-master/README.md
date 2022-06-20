@@ -1,5 +1,15 @@
 # LightBnB
 
+
+LightBnB is an easy to use website that will help you book your next holiday accomadation with ease!
+This was a database based project where SQL was primarily used to write my queries. The front end and back end of this website were forked while I focused mainly on the server and database. 
+
+# Final Product
+!["Project home page!"]()
+
+
+
+
 ## Project Structure
 
 ```
