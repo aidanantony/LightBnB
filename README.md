@@ -15,7 +15,7 @@ This was a database based project where SQL was primarily used to write my queri
 !["ERD diagram!"](https://github.com/aidanantony/LightBnB/blob/main/LightBnB_WebApp-master/public/javascript/components/ERD-diagram.png)
 
 # Setup
-Just use the following commands to set up. Run the commands inside the quotes but do not include the quotes. To isntall, use the command "npm install". Next use "npm run local". You should now be able to see it in your browser at localhost:3000
+Just use the following commands to set up. Run the commands inside the quotes but do not include the quotes. To install, use the command "npm install". Next use "npm run local". You should now be able to see it in your browser at localhost:3000
 
 
 
